@@ -73,8 +73,12 @@ For comprehensive documentation about the Tiation ecosystem:
 
 - **[Tiation Documentation Hub](https://github.com/tiation/tiation-docs)** - Central documentation repository
 - **[Repository Index](https://github.com/tiation/tiation-docs/blob/main/docs/REPOSITORY_INDEX.md)** - Complete overview of all repositories
-- **[Architecture Overview](https://github.com/tiation/tiation-docs/blob/main/docs/architecture/REPOSITORY_GRAPH.md)** - Visual system architecture
-- **[Development Setup](https://github.com/tiation/tiation-docs/blob/main/docs/guides/development-setup.md)** - Get started with development
+- **[Architecture Overview](docs/ARCHITECTURE.md)** - Detailed system architecture
+- **[Deployment Guides](docs/guides)** - Step-by-step deployment instructions
+
+## 📷 Architecture Diagram
+
+![System Architecture](docs/images/architecture-diagram.png)
 
 ---
 *Part of the [Tiation](https://github.com/tiation) ecosystem*
