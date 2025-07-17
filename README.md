@@ -80,5 +80,13 @@ For comprehensive documentation about the Tiation ecosystem:
 
 ![System Architecture](docs/images/architecture-diagram.png)
 
+## 📞 Contact & Support
+
+For questions, support, or enterprise Google App Engine deployment assistance:
+
+- **Email**: [tiatheone@protonmail.com](mailto:tiatheone@protonmail.com)
+- **Issues**: [GitHub Issues](https://github.com/tiation/tiation-server-configs-gae/issues)
+- **Documentation**: [Tiation Documentation Hub](https://github.com/tiation/tiation-docs)
+
 ---
-*Part of the [Tiation](https://github.com/tiation) ecosystem*
+*Part of the [Tiation](https://github.com/tiaastor) ecosystem*

@@ -1,0 +1,29 @@
+title: Tiation Server Configs GAE
+description: Enterprise-grade Google App Engine server configurations for the Tiation ecosystem
+baseurl: "/tiation-server-configs-gae"
+url: "https://tiation.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Site settings
+author:
+  name: Tiation Team
+  email: team@tiation.com
+
+# Navigation
+header_pages:
+  - index.md
+  - architecture.md
+  - deployment.md
+
+# GitHub repository
+repository: tiation/tiation-server-configs-gae
+
+# Social links
+github_username: tiation
