@@ -1,5 +1,19 @@
 # Google App Engine Server Configs
 
+> **📢 Important Notice**: The comprehensive documentation for the Tiation ecosystem has moved to our dedicated documentation repository.
+>
+> 🚀 **Visit the [Tiation Documentation Hub](https://github.com/tiation/tiation-docs)** for:
+> - Complete repository index and architecture documentation
+> - Development setup guides
+> - API documentation
+> - Best practices and policies
+
+## About This Repository
+
+This repository contains Google App Engine server configurations used by various Tiation projects.
+
+## Quick Start
+
 1. [Install Cloud SDK][1] and select Option 2 - Python and PHP - when prompted about App Engine.
 2. Install App Engine command line interface component of Cloud SDK
 by executing
@@ -53,20 +67,14 @@ The code is available under the [MIT license](LICENSE.txt).
 [2]: https://console.developers.google.com/
 [3]: https://github.com/h5bp/server-configs-gae/graphs/contributors
 
-## Related Repositories
+## 📚 Documentation
 
-This repository is part of the Tiation GitHub ecosystem. For a complete overview of all repositories and their relationships, see the [Repository Index](./REPOSITORY_INDEX.md).
+For comprehensive documentation about the Tiation ecosystem:
 
-### Direct Dependencies
-- [19-trillion-solution](../19-trillion-solution/) - Main deployment target
-- [company-intranet](../company-intranet/) - Intranet deployment
-- [workflows](../workflows/) - Deployment automation
-
-### Quick Links
-- [Repository Index](./REPOSITORY_INDEX.md) - Complete repository overview
-- [Development Setup](../ubuntu-dev-setup/README.md) - Development environment setup
-- [Workflows](../workflows/) - CI/CD templates
-- [Infrastructure](../server-configs-gae/) - Deployment configurations
+- **[Tiation Documentation Hub](https://github.com/tiation/tiation-docs)** - Central documentation repository
+- **[Repository Index](https://github.com/tiation/tiation-docs/blob/main/docs/REPOSITORY_INDEX.md)** - Complete overview of all repositories
+- **[Architecture Overview](https://github.com/tiation/tiation-docs/blob/main/docs/architecture/REPOSITORY_GRAPH.md)** - Visual system architecture
+- **[Development Setup](https://github.com/tiation/tiation-docs/blob/main/docs/guides/development-setup.md)** - Get started with development
 
 ---
-*Part of the [Tiation](../tiation/) ecosystem*
+*Part of the [Tiation](https://github.com/tiation) ecosystem*
