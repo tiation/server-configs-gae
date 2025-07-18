@@ -28,3 +28,26 @@ For more in-depth information, access the [GitHub Repository](https://github.com
 - **Issues and Support**: [GitHub Issues](https://github.com/tiation/tiation-server-configs-gae/issues)
 
 Stay connected for updates and enterprise support.
+
+## 📚 Additional Resources
+
+- [FAQ](faq.md) - Frequently asked questions
+- [Troubleshooting](troubleshooting.md) - Common issues and solutions
+- [Contributing](../CONTRIBUTING.md) - How to contribute to this project
+- [License](../LICENSE) - Project license information
+
+## 🎨 Theme Information
+
+This project features a **dark neon theme** with:
+- Cyan gradient flares
+- Professional enterprise styling
+- Mobile-responsive design
+- Accessibility features
+
+## 🚀 Quick Links
+
+- [GitHub Repository](https://github.com/TiaAstor/tiation-server-configs-gae)
+- [Live Demo](https://tiaastor.github.io/tiation-server-configs-gae)
+- [Documentation](https://github.com/TiaAstor/tiation-server-configs-gae/wiki)
+- [Issues](https://github.com/TiaAstor/tiation-server-configs-gae/issues)
+
